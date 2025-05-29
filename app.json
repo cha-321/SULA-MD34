@@ -1,5 +1,5 @@
 {
-  "name": "SULA-MD",
+  "name": "RCD_MD",
   "description": "SULA-MD Multidevice Whatsapp Bot",
   "logo": "https://i.ibb.co/0R73PZb5/SulaMd.jpg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝐒𝐔𝐋𝐀-𝐌𝐃=BytkgYaK#C_C4w6rExCMaHLNvH5uDmh2YhqzJ1GQINO1sH8H7C6g",
       "required": true
     },
  "NEWS_SEND_JID": {
