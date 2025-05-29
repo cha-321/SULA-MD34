@@ -1,8 +1,8 @@
 {
-  "name": "SULA-MD",
+  "name": "RCD_MD",
   "version": "3.0.0",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "sula.js",
+  "main": "RCD.js",
   "scripts": {
     "start": "pm2 start sula.js --deep-monitoring --attach --name SulaMd",
     "stop": "pm2 stop SulaMd",
